@@ -44,6 +44,24 @@ The initial version of the platform focuses on core contract understanding featu
 - Timeline and date detection
 - Confidence scoring for AI analysis
 
+## Tech Stack
+- Version Control & Repository:
+   - Git
+   - GitHub
+   - GitHub Actions
+   - GitFlow
+- Front-End
+   - React-Native
+   - Expo
+   - Tailwind-CSS
+   - TypeScript
+- Back-End
+   - Dotnet (C#)
+   - WebAPI (Clean Architecture)
+   - SemanticKernel (AI integration)
+- Database
+   - PostgreSQL
+
 ## Long-Term Vision
 
 This project represents the starting point of a broader legal technology ecosystem focused on accessibility and clarity. Over time, the platform may expand to include features such as contract comparisons, templates for common agreements, compliance checklists, and additional tools designed to help individuals and small businesses navigate legal documents with greater confidence.
