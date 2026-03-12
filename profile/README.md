@@ -53,7 +53,7 @@ The initial version of the platform focuses on core contract understanding featu
 - Front-End
    - React-Native
    - Expo
-   - Tailwind-CSS
+   - Nativewind
    - TypeScript
 - Back-End
    - Dotnet (C#)
