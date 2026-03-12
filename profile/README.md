@@ -45,22 +45,23 @@ The initial version of the platform focuses on core contract understanding featu
 - Confidence scoring for AI analysis
 
 ## Tech Stack
+
 - Version Control & Repository:
-   - Git
-   - GitHub
-   - GitHub Actions
-   - GitFlow
+  - Git
+  - GitHub
+  - GitHub Actions
+  - GitFlow
 - Front-End
-   - React-Native
-   - Expo
-   - Tailwind-CSS
-   - TypeScript
+  - React-Native
+  - Expo
+  - Native-Wind
+  - TypeScript
 - Back-End
-   - Dotnet (C#)
-   - WebAPI (Clean Architecture)
-   - SemanticKernel (AI integration)
+  - Dotnet (C#)
+  - WebAPI (Clean Architecture)
+  - SemanticKernel (AI integration)
 - Database
-   - PostgreSQL
+  - PostgreSQL
 
 ## Long-Term Vision
 
